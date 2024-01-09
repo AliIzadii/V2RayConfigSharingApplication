@@ -1,7 +1,3 @@
-Certainly! Here's a draft for the README section of your GitHub repository:
-
----
-
 # V2Ray Config Sharing Application
 
 The V2Ray Config Sharing Application allows users to access a list of V2Ray configurations, copy them, and import them into their primary V2Ray application to connect to VPNs. These configurations are gathered from various sources and made available within the application.
