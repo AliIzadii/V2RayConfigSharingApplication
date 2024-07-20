@@ -17,7 +17,25 @@ The application comprises two versions:
 
 The application utilizes Retool's API to facilitate configuration management for admins, streamlining the addition and removal of V2Ray configurations.
 
-## Usage
+3. ## Getting Started
 
-1. **Admin Version**: Access the admin panel to add or delete configurations.
-2. **Regular User Version**: Easily copy desired configurations within the app and import them into the V2Ray application for VPN connectivity.
+To run this project, you will need to have Flutter installed on your local machine. If you don't have Flutter installed, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+
+## Project Structure
+
+- `lib/`: Contains the main source code for the Flutter application.
+- `assets/`: Contains any images, fonts, and other assets used in the application.
+- `pubspec.yaml`: Manages the Flutter project's dependencies.
+
+## How To Use
+
+1. Clone The Repository
+
+2. Get the dependencies: Run `flutter pub get`
+
+3. Run the application: Run `flutter run`
+
+## Contact
+
+For any questions or feedback, please contact [Ali Izadi](mailto:ali.izadi.ce@gmail.com).
+
