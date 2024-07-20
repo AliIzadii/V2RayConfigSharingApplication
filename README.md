@@ -17,7 +17,7 @@ The application comprises two versions:
 
 The application utilizes Retool's API to facilitate configuration management for admins, streamlining the addition and removal of V2Ray configurations.
 
-3. ## Getting Started
+## Getting Started
 
 To run this project, you will need to have Flutter installed on your local machine. If you don't have Flutter installed, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
