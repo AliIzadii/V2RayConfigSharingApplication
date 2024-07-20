@@ -24,7 +24,6 @@ To run this project, you will need to have Flutter installed on your local machi
 ## Project Structure
 
 - `lib/`: Contains the main source code for the Flutter application.
-- `assets/`: Contains any images, fonts, and other assets used in the application.
 - `pubspec.yaml`: Manages the Flutter project's dependencies.
 
 ## How To Use
